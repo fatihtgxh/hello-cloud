@@ -3,4 +3,4 @@ app = flask(__name__)
 
 @app.route('/')
 def home():
-  return"merhaba,buluttan selam!"
+  return "merhaba,buluttan selam!"
